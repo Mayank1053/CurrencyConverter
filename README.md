@@ -45,7 +45,7 @@ npm run dev
 
 Screenshot
 ----------
-<img src="https://github.com/Mayank1053/CurrencyConverter/assets/96438897/a62346d6-92b9-4d73-b3f0-dd700e19f537" alt="BMI Calculator Screenshot" width="500"/>
+<img src="https://github.com/Mayank1053/CurrencyConverter/assets/96438897/a62346d6-92b9-4d73-b3f0-dd700e19f537" alt="Currency Converter" width="500"/>
 
 Files
 -----
